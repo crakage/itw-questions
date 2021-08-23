@@ -1,3 +1,5 @@
+# Return word from list that are repeated the most, the argument k represent the top k word repeated in the list.
+
 # Example:
 # Input: words = ["i","love","sun", "i","love","pizza"], k = 2
 # Output: ["i","love"]
